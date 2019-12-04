@@ -1,0 +1,69 @@
+.demo-chip-list {
+  width: 100%;
+}
+
+.example-icon {
+  padding: 0 14px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+#iconsbar {
+  overflow: hidden;
+  background-color: #c3c3c3;
+}
+
+/* Navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 60px;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.bsticky {
+  position: fixed;
+  width: 100%;
+}
+.bsticky_footer {
+  bottom: 98px;
+  transition: all .5s;
+}
+
+.bsticky_slide {
+  bottom: 50px;
+  transition: all .5s;
+}
+
+.bsticky_float {
+  bottom: 0;
+  transition: all .5s;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.bsticky + .content {
+  padding-bottom: 100px;
+}
