@@ -1,3 +1,31 @@
+export const mdcList = [
+  'MDC 01 Diseases & Disorders of the Nervous System',
+  'MDC 02 Diseases & Disorders of the Eye',
+  'MDC 03 Diseases & Disorders of the Ear, Nose, Mouth & Throat',
+  'MDC 04 Diseases & Disorders of the Respiratory System',
+  'MDC 05 Diseases & Disorders of the Circulatory System',
+  'MDC 06 Diseases & Disorders of the Digestive System',
+  'MDC 07 Diseases & Disorders of the Hepatobiliary System & Pancreas',
+  'MDC 08 Diseases & Disorders of the Musculoskeletal System & Connective Tissue',
+  'MDC 09 Diseases & Disorders of the Skin, Subcutaneous Tissue & Breast',
+  'MDC 10 Endocrine, Nutritional & Metabolic Diseases & Disorders',
+  'MDC 11 Diseases & Disorders of the Kidney & Urinary Tract',
+  'MDC 12 Diseases & Disorders of the Male Reproductive System',
+  'MDC 13 Diseases & Disorders of the Female Reproductive System',
+  'MDC 14 Pregnancy, Childbirth & the Puerperium',
+  'MDC 15 Newborns & Other Neonates with Conditions Originating in Perinatal Period',
+  'MDC 16 Diseases & Disorders of Blood, Blood Forming Organs, Immunologic Disorders',
+  'MDC 17 Myeloproliferative Diseases & Disorders, Poorly Differentiated Neoplasms',
+  'MDC 18 Infectious & Parasitic Diseases, Systemic or Unspecified Sites',
+  'MDC 19 Mental Diseases & Disorders',
+  'MDC 20 Alcohol/Drug Use & Alcohol/Drug Induced Organic Mental Disorders',
+  'MDC 21 Injuries, Poisonings & Toxic Effects of Drugs',
+  'MDC 22 Burns',
+  'MDC 23 Factors Influencing Health Status & Other Contacts with Health Services',
+  'MDC 24 Multiple Significant Trauma',
+  'MDC 25 Human Immunodeficiency Virus Infections'
+];
+
 export const allItems = [
     '001 HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM WITH MCC',
     '002 HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM WITHOUT MCC',
